@@ -639,7 +639,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207196064}
-  m_LocalRotation: {x: 0.12124863, y: -0.000000017605084, z: 0.0000000021504578, w: 0.9926222}
+  m_LocalRotation: {x: 0.121248655, y: -0.000000016373127, z: 0.000000001999975, w: 0.9926222}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -713,7 +713,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1317011931}
-  m_LocalRotation: {x: 0.10317329, y: 1e-45, z: -0, w: 0.9946634}
+  m_LocalRotation: {x: 0.10317329, y: -0, z: -0, w: 0.9946634}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -913,7 +913,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1844140442}
-  m_LocalRotation: {x: 0.08511168, y: 1e-45, z: -0, w: 0.99637145}
+  m_LocalRotation: {x: 0.08511168, y: -1e-45, z: -0, w: 0.99637145}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3193,7 +3193,6 @@ MonoBehaviour:
   rotateSpeed: 7
   blendSpeed: 15
   maxAngle: 80
-  moveSpeed: 1.5
   rootMotionWeight: 0.5
   headLookWeight: 1
   gunHoldOffset: {x: 0, y: 0.05, z: 0}
