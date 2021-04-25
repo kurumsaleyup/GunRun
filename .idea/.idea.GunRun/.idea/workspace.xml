@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d43c5f-7723-4775-b586-ee05655999c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GunRun/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GunRun/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GunRun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GunRun/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/_DEMOS/FBBIK/Scripts/AnimatorController3rdPerson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/_DEMOS/FBBIK/Scripts/AnimatorController3rdPerson.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/Main.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/Main.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe9.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/PlayerLook.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -28,6 +40,8 @@
       <option value="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Scripts/Camera Controllers/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/_DEMOS/FBBIK/Scripts/AnimatorController3rdPerson.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rdJHtTIZpeXegzmb59inrBtlwZ" />
@@ -51,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619299952273</updated>
       <workItem from="1619299959079" duration="8000" />
-      <workItem from="1619299997312" duration="5771000" />
+      <workItem from="1619299997312" duration="8390000" />
     </task>
     <servers />
   </component>
