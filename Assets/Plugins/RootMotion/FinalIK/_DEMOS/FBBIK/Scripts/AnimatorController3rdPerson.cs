@@ -19,10 +19,12 @@ namespace RootMotion.Demos
         protected Vector3 moveBlend, moveInput, velocity;
         private float moveSpeed = 1.5f; // The speed of moving the character with no root motion
 
+        private Rigidbody rigidbody;
 
         protected virtual void Start()
         {
             animator = GetComponent<Animator>();
+            rigidbody = GetComponent<Rigidbody>();
         }
 
         // Moving the character
@@ -30,7 +32,7 @@ namespace RootMotion.Demos
         {
             velocity = Vector3.Lerp(velocity, transform.rotation * Vector3.ClampMagnitude(moveInput, 1f) * moveSpeed,
                 Time.deltaTime * blendSpeed);
-
+           
             // Crossfading between procedural movement and root motion.
             transform.position += Vector3.Lerp(velocity * Time.deltaTime, animator.deltaPosition, rootMotionWeight);
         }
