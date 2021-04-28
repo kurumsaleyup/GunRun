@@ -3140,7 +3140,7 @@ MonoBehaviour:
   rootMotionWeight: 0.5
   headLookWeight: 1
   gunHoldOffset: {x: -0.01, y: -0.01, z: -0.17}
-  leftHandOffset: {x: 0.09, y: -0.1, z: -0.04}
+  leftHandOffset: {x: 0.27, y: -0.1, z: -0.03}
   recoil: {fileID: 7258093094922257658}
 --- !u!114 &7258093094922257660
 MonoBehaviour:

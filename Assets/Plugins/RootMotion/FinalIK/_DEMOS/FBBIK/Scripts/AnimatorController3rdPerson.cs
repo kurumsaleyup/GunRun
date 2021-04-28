@@ -32,7 +32,7 @@ namespace RootMotion.Demos
         {
             velocity = Vector3.Lerp(velocity, transform.rotation * Vector3.ClampMagnitude(moveInput, 1f) * moveSpeed,
                 Time.deltaTime * blendSpeed);
-           
+
             // Crossfading between procedural movement and root motion.
             transform.position += Vector3.Lerp(velocity * Time.deltaTime, animator.deltaPosition, rootMotionWeight);
         }
@@ -66,10 +66,29 @@ namespace RootMotion.Demos
             animator.SetFloat("X", moveBlend.x);
             animator.SetFloat("Z", moveBlend.z);
             animator.SetBool("IsMoving", isMoving);
-            if (Input.GetKey(KeyCode.LeftShift) && !Input.GetKey(KeyCode.S))
+            if (Input.GetKey(KeyCode.LeftShift))
             {
                 animator.SetBool("IsRunning", true);
                 moveSpeed = 3f;
+
+                if (Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.W))
+                {
+                    animator.SetBool("IsRunning", false);
+                    moveSpeed = 1.5f;
+                }
+
+
+                if (Input.GetKey(KeyCode.D) && !Input.GetKey(KeyCode.W))
+                {
+                    animator.SetBool("IsRunning", false);
+                    moveSpeed = 1.5f;
+                }
+
+                if (Input.GetKey(KeyCode.S))
+                {
+                    animator.SetBool("IsRunning", false);
+                    moveSpeed = 1.5f;
+                }
             }
             else
             {

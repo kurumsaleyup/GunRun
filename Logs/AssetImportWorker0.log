@@ -1,0 +1,1463 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.928; Version 2009; 64bit' Language: 'tr' Physical Memory: 16178 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\User\Desktop\HERSEY\Unity\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Bitbucket-Cold/GunRun
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61126
+Successfully changed project path to: D:/Bitbucket-Cold/GunRun
+D:/Bitbucket-Cold/GunRun
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/HERSEY/Unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Bitbucket-Cold/GunRun/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5771
+Initialize mono
+Mono path[0] = 'C:/Users/User/Desktop/HERSEY/Unity/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/User/Desktop/HERSEY/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/User/Desktop/HERSEY/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/User/Desktop/HERSEY/Unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001709 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.693 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.9 MB.
+System memory in use after: 94.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2075.
+Total: 6.127800 ms (FindLiveObjects: 0.457400 ms CreateObjectMapping: 0.174500 ms MarkObjects: 5.207800 ms  DeleteObjects: 0.286000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Game/Scenes/Main.unity
+  artifactKey: Guid(fb2ce2609ca045b42ac8574bc54a2357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Scenes/Main.unity using Guid(fb2ce2609ca045b42ac8574bc54a2357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a037528f6b44f3a3d2fd042fc2b72d31') in 0.035782 seconds
+  Import took 0.040691 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.246 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1575 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.6 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2079.
+Total: 5.494700 ms (FindLiveObjects: 0.684500 ms CreateObjectMapping: 0.254200 ms MarkObjects: 4.193100 ms  DeleteObjects: 0.358000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000767 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.791 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.6 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2082.
+Total: 4.905500 ms (FindLiveObjects: 0.373900 ms CreateObjectMapping: 0.117100 ms MarkObjects: 3.795500 ms  DeleteObjects: 0.614300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 485.694343 seconds.
+  path: Assets/_Game/Prefabs/Player.prefab
+  artifactKey: Guid(c2ae5fe9c1b80c44c80baf0d7be54d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Prefabs/Player.prefab using Guid(c2ae5fe9c1b80c44c80baf0d7be54d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3819a131696ea1a296954825e4f855e') in 0.355090 seconds
+  Import took 0.369976 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.8 MB.
+System memory in use after: 109.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 2.700000 ms (FindLiveObjects: 0.365100 ms CreateObjectMapping: 0.107400 ms MarkObjects: 1.967500 ms  DeleteObjects: 0.256300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.825240 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b60c588a7aed5e7289bc283e055cded') in 0.049744 seconds
+  Import took 0.094881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.627009 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7144523f0e24b1e7f4dbf85a441f59') in 0.010780 seconds
+  Import took 0.030068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.739844 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d835877ff238c832a62198a2f63b706') in 0.007096 seconds
+  Import took 0.030996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023499 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d835877ff238c832a62198a2f63b706') in 0.013899 seconds
+  Import took 0.019842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.377430 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintFR.anim
+  artifactKey: Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintFR.anim using Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8eed6c9b2c197c88d2a617fd3f0795') in 0.010913 seconds
+  Import took 0.022947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.150730 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ba60fab03a8a2cc93179f32fe4cdfb') in 0.006991 seconds
+  Import took 0.014734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.058399 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintF.anim
+  artifactKey: Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintF.anim using Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48acc56325a6ff06c1240e43a71bcc82') in 0.013436 seconds
+  Import took 0.061106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.381755 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc086d2d7feefd3a2de25a806acbb9e') in 0.006995 seconds
+  Import took 0.016755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.259263 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintL.anim
+  artifactKey: Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintL.anim using Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bce35b657bd057006a4c731ee9a841b') in 0.010812 seconds
+  Import took 0.048588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007382 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintL.anim
+  artifactKey: Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintL.anim using Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bce35b657bd057006a4c731ee9a841b') in 0.007077 seconds
+  Import took 0.010774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.205500 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13956cdd57bb9476f767403cc9d4679') in 0.006783 seconds
+  Import took 0.056078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.140672 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintR.anim
+  artifactKey: Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/SprintR.anim using Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5e63fc6043892d12aa0b393946f2d5') in 0.013691 seconds
+  Import took 0.017461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.599450 seconds.
+  path: Assets/_Game/Models/Animations/Sprint
+  artifactKey: Guid(37caa2195cbd7d54ab75122c268cf96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint using Guid(37caa2195cbd7d54ab75122c268cf96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f07f352e74c9d0e619201f8d1ccb0b4') in 0.005251 seconds
+  Import took 0.105129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.089534 seconds.
+  path: Assets/_Game/Models/Animations/Rifle Idle.anim
+  artifactKey: Guid(5cea9b807fedf0b41bfa578351539232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle Idle.anim using Guid(5cea9b807fedf0b41bfa578351539232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f2f3b696d5e647fb95e212d9597bb3') in 0.026502 seconds
+  Import took 0.047769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.704456 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintFR.anim
+  artifactKey: Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintFR.anim using Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6d674698b0490f88ba17bc5bdbbf27') in 0.008222 seconds
+  Import took 0.027611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.244261 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c69919632bb8efad6ce3478fb90556') in 0.008821 seconds
+  Import took 0.363742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.439044 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintF.anim
+  artifactKey: Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintF.anim using Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb85e52cb47fa1fad69836d263d7bcc') in 0.008777 seconds
+  Import took 0.111351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.587452 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintR.anim
+  artifactKey: Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintR.anim using Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e8faf4542d7e2463175bc9391f0705') in 0.016254 seconds
+  Import took 0.137021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.135950 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintL.anim
+  artifactKey: Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintL.anim using Guid(f09df9924df50f94abfb895adecd0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2454f366676a3e176680e31554ef704a') in 0.014145 seconds
+  Import took 0.020111 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.0 MB.
+System memory in use after: 109.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2097.
+Total: 2.074100 ms (FindLiveObjects: 0.191300 ms CreateObjectMapping: 0.058900 ms MarkObjects: 1.625900 ms  DeleteObjects: 0.197200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.601314 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintR.anim
+  artifactKey: Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintR.anim using Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d050b67026f5c1b657a87cc0cdce87') in 0.022545 seconds
+  Import took 0.036181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.918284 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintR.anim
+  artifactKey: Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintR.anim using Guid(7fb8ffc578fb4ef40b0e1d8f50609acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d050b67026f5c1b657a87cc0cdce87') in 0.006389 seconds
+  Import took 0.009273 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000986 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.0 MB.
+System memory in use after: 109.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2100.
+Total: 2.842500 ms (FindLiveObjects: 0.453200 ms CreateObjectMapping: 0.091200 ms MarkObjects: 2.093000 ms  DeleteObjects: 0.203000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 571.496278 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack
+  artifactKey: Guid(45bd5553729f75946b6133c733293ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack using Guid(45bd5553729f75946b6133c733293ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7387a39864fb013a9fac62596f78a0f8') in 0.012396 seconds
+  Import took 0.068617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.919176 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack/right strafe.fbx
+  artifactKey: Guid(187a75e44284f8f4cb55f09e1dfd41f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack/right strafe.fbx using Guid(187a75e44284f8f4cb55f09e1dfd41f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b8a2b927c32daf24230537b06b3aed') in 0.061888 seconds
+  Import took 0.158505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.017233 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack/right strafe.fbx
+  artifactKey: Guid(187a75e44284f8f4cb55f09e1dfd41f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack/right strafe.fbx using Guid(187a75e44284f8f4cb55f09e1dfd41f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f3091a1e07988801088538fd5430e6') in 0.005204 seconds
+  Import took 0.008179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.482003 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack/right turn 90.fbx
+  artifactKey: Guid(d46bc5b59d03b6c4aa06c0217d01723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack/right turn 90.fbx using Guid(d46bc5b59d03b6c4aa06c0217d01723b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cf7fa5e1ebb31c718306301bdd90c7') in 0.008476 seconds
+  Import took 0.011429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.878603 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack/left turn.fbx
+  artifactKey: Guid(b7947ebe4e621fa4ca4e7bfc23f1f3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack/left turn.fbx using Guid(b7947ebe4e621fa4ca4e7bfc23f1f3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e1540dc66b53c4062ef021be4c9be9') in 0.009210 seconds
+  Import took 0.100634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.454810 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack/maria_prop_j_j_ong.fbx
+  artifactKey: Guid(100eeef0d9e7584468eb1813bf770062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack/maria_prop_j_j_ong.fbx using Guid(100eeef0d9e7584468eb1813bf770062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605b03bed7e7347557e2a8004673df72') in 0.173170 seconds
+  Import took 0.180926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.856489 seconds.
+  path: Assets/_Game/Models/Animations/Locomotion Pack/right strafe walking.fbx
+  artifactKey: Guid(b9f48fe6fdd84b443a7182ea835f1fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Locomotion Pack/right strafe walking.fbx using Guid(b9f48fe6fdd84b443a7182ea835f1fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dda2874581391a5fa07d097069d4289') in 0.008826 seconds
+  Import took 0.018425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.261607 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6b18436761d6b028d8e3633eda9051') in 0.021255 seconds
+  Import took 0.122348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.794852 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintF.anim
+  artifactKey: Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintF.anim using Guid(8eb14228a05bef945833d765f0c09457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2599b10eefb3dc7030fd5c0f3c5cb0e') in 0.008190 seconds
+  Import took 0.332706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.442665 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/SprintFR.anim
+  artifactKey: Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/SprintFR.anim using Guid(5c2381ac9e712ea40805edcf5144b60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a521ea09e433490a1ea6c153fe2d842') in 0.009073 seconds
+  Import took 0.127482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 322.866142 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35d0dc51f65c15c4e196f8c66e8a7f1b') in 0.012205 seconds
+  Import took 0.060139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.450292 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2635b4403b0fef6ca8f4e6721a0cc0dc') in 0.013804 seconds
+  Import took 0.041385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012232 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2635b4403b0fef6ca8f4e6721a0cc0dc') in 0.016117 seconds
+  Import took 0.023432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.197740 seconds.
+  path: Assets/_Game/Models/Animations/Sprint/Sprint FL.anim
+  artifactKey: Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Sprint/Sprint FL.anim using Guid(b4da862d6f430e24aa15a8dcceeab817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6311cd308d0086cf9e24f208634a2b30') in 0.013201 seconds
+  Import took 0.023531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 413.975936 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx
+  artifactKey: Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx using Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673fa953a913a459b9421a4f4fc7890a') in 0.009247 seconds
+  Import took 0.012893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.591517 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx
+  artifactKey: Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx using Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d89ead15042b10ea1368476fcaf12a') in 0.004672 seconds
+  Import took 0.007802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.203794 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx
+  artifactKey: Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx using Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed8132209fbf129ac660bb100a322dc') in 0.005065 seconds
+  Import took 0.015269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008278 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx
+  artifactKey: Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx using Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed8132209fbf129ac660bb100a322dc') in 0.004780 seconds
+  Import took 0.007821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.139614 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx
+  artifactKey: Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx using Guid(f875ceefee57ad245be6952d6bc96bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39d29905f3737ce9898ebf794d8afd2') in 0.005213 seconds
+  Import took 0.165612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.033546 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Run Turn.fbx
+  artifactKey: Guid(f2058580a3b66b041bc906b2a8d0accd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Run Turn.fbx using Guid(f2058580a3b66b041bc906b2a8d0accd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d3819e61a443f9388418ff1787c369') in 0.013630 seconds
+  Import took 0.017841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.031185 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Run Turn Sharp.fbx
+  artifactKey: Guid(4597f75592fba204890fd32d8c11a1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Run Turn Sharp.fbx using Guid(4597f75592fba204890fd32d8c11a1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4178e2d1c7d955112335245c14891889') in 0.010110 seconds
+  Import took 0.044375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004359 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Run Turn Sharp.fbx
+  artifactKey: Guid(4597f75592fba204890fd32d8c11a1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Run Turn Sharp.fbx using Guid(4597f75592fba204890fd32d8c11a1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4178e2d1c7d955112335245c14891889') in 0.006805 seconds
+  Import took 0.010273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.976565 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials
+  artifactKey: Guid(aede566d19c9141e8a7c2f828ec70d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Materials using Guid(aede566d19c9141e8a7c2f828ec70d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c17d8f009b3cc4fcff5e575d33c4cf8') in 0.007208 seconds
+  Import took 0.111706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.903511 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Aim MP-40
+  artifactKey: Guid(59354169c305d4f60b55d54a6634dac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Aim MP-40 using Guid(59354169c305d4f60b55d54a6634dac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b234d9a6abc8ff246a305de9831ab47') in 0.114760 seconds
+  Import took 0.127846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.388379 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller
+  artifactKey: Guid(f3ae42774e2a946d09a0ed798fa10406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller using Guid(f3ae42774e2a946d09a0ed798fa10406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa7d9fa4112f4a537f3da661bdb194c') in 0.043106 seconds
+  Import took 0.046878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017805 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller
+  artifactKey: Guid(f3ae42774e2a946d09a0ed798fa10406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller using Guid(f3ae42774e2a946d09a0ed798fa10406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa7d9fa4112f4a537f3da661bdb194c') in 0.035805 seconds
+  Import took 0.039471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 758.055486 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller
+  artifactKey: Guid(f3ae42774e2a946d09a0ed798fa10406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animator Controllers/Humanoid Strafing and Aiming.controller using Guid(f3ae42774e2a946d09a0ed798fa10406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ecdebfec35303e740c947cdfc9f0267') in 0.021914 seconds
+  Import took 0.133569 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.333 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.5 MB.
+System memory in use after: 110.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2140.
+Total: 3.439400 ms (FindLiveObjects: 0.323900 ms CreateObjectMapping: 0.095400 ms MarkObjects: 2.588300 ms  DeleteObjects: 0.428900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.387902 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Stand Turn.fbx
+  artifactKey: Guid(5033c980c09474948b2a9510841d9491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Stand Turn.fbx using Guid(5033c980c09474948b2a9510841d9491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a501819d3e6efaac78a271a78d6f28') in 0.126123 seconds
+  Import took 0.142645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.302066 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Die Backwards.fbx
+  artifactKey: Guid(64e6dc075aba046e1a89981cc7cc1868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Die Backwards.fbx using Guid(64e6dc075aba046e1a89981cc7cc1868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a97819d14292a91f234ddb53b793d61') in 0.151815 seconds
+  Import took 0.155541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.596542 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Crouch.fbx
+  artifactKey: Guid(c79d18b7598993246a99ebc7c22b5f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Crouch.fbx using Guid(c79d18b7598993246a99ebc7c22b5f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357aa82b2ed0ca559962e962d9b19f3b') in 0.060133 seconds
+  Import took 0.075884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001011 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Crouch.fbx
+  artifactKey: Guid(c79d18b7598993246a99ebc7c22b5f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Crouch.fbx using Guid(c79d18b7598993246a99ebc7c22b5f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357aa82b2ed0ca559962e962d9b19f3b') in 0.036531 seconds
+  Import took 0.040534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.022130 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Boxing.FBX
+  artifactKey: Guid(3c69204264c184db688c572c53c15b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Boxing.FBX using Guid(3c69204264c184db688c572c53c15b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92eb6616be9d273e9deab00446b329f') in 0.015021 seconds
+  Import took 0.211986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.290541 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Swing Right Loop.FBX
+  artifactKey: Guid(687c90bad30a015408181d40c120d2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Swing Right Loop.FBX using Guid(687c90bad30a015408181d40c120d2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d01cbba3e3348e74769ed5472aeecc') in 0.022926 seconds
+  Import took 0.032734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016923 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Swing Right Loop.FBX
+  artifactKey: Guid(687c90bad30a015408181d40c120d2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Swing Right Loop.FBX using Guid(687c90bad30a015408181d40c120d2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d01cbba3e3348e74769ed5472aeecc') in 0.015889 seconds
+  Import took 0.019879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.390859 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Upperbody Swing Prop.FBX
+  artifactKey: Guid(232d9db43d7e44df6b433d7b4a3c1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Upperbody Swing Prop.FBX using Guid(232d9db43d7e44df6b433d7b4a3c1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059ec386978aebb40b2e6ab02d4aade2') in 0.009660 seconds
+  Import took 0.041856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016162 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Upperbody Swing Prop.FBX
+  artifactKey: Guid(232d9db43d7e44df6b433d7b4a3c1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Upperbody Swing Prop.FBX using Guid(232d9db43d7e44df6b433d7b4a3c1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059ec386978aebb40b2e6ab02d4aade2') in 0.004991 seconds
+  Import took 0.008513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.843426 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Mid Air 3.fbx
+  artifactKey: Guid(25275a2ff07f278408cfa0a8ff8ebce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Mid Air 3.fbx using Guid(25275a2ff07f278408cfa0a8ff8ebce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bb8e7a4b6a2ac6b453bca880cf0aff') in 0.094144 seconds
+  Import took 0.121238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001645 seconds.
+  path: Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Mid Air 3.fbx
+  artifactKey: Guid(25275a2ff07f278408cfa0a8ff8ebce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Shared Demo Assets/Humanoid Animations/Mid Air 3.fbx using Guid(25275a2ff07f278408cfa0a8ff8ebce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bb8e7a4b6a2ac6b453bca880cf0aff') in 0.077109 seconds
+  Import took 0.082371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.440377 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx
+  artifactKey: Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx using Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca42ea07c597dc5568270c73f69943d') in 0.017594 seconds
+  Import took 0.027918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.597352 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx
+  artifactKey: Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx using Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579c62dc328254f0f04816dcf1edf48a') in 0.005438 seconds
+  Import took 0.336750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.524775 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx
+  artifactKey: Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx using Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc83c013cac7df11e4b80470d503bd7') in 0.005173 seconds
+  Import took 0.074097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.701962 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx
+  artifactKey: Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward right.fbx using Guid(50ce6adbb3b6da74098fc07b3222797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62c4ffdbfb59b86f3bcff7bb241ba3e') in 0.004880 seconds
+  Import took 0.023126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.115350 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward left.fbx
+  artifactKey: Guid(48c26b1a8ebb89d4c9bf48d15e9cb2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward left.fbx using Guid(48c26b1a8ebb89d4c9bf48d15e9cb2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c300ff57afcd1d9d7cafd967a4e7fc') in 0.008947 seconds
+  Import took 0.025002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.486626 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward.fbx
+  artifactKey: Guid(4eb01cefebb6b9548a916a4658e0f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run forward.fbx using Guid(4eb01cefebb6b9548a916a4658e0f843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cd7419cc13cdafb54913bed94edbf9') in 0.009624 seconds
+  Import took 0.024707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.328889 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run left.fbx
+  artifactKey: Guid(edb67af56f583b147b911d6b6eb54a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run left.fbx using Guid(edb67af56f583b147b911d6b6eb54a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8b474bf7ec1129be505355eb90fe4d') in 0.011491 seconds
+  Import took 0.026307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.158855 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run right.fbx
+  artifactKey: Guid(093eeccf8ec2fb644aa451eb07e12550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/run right.fbx using Guid(093eeccf8ec2fb644aa451eb07e12550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574f730292fa0656294dd23d2f2a625f') in 0.009031 seconds
+  Import took 0.024619 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2144.
+Total: 2.250700 ms (FindLiveObjects: 0.211900 ms CreateObjectMapping: 0.061500 ms MarkObjects: 1.500600 ms  DeleteObjects: 0.475500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.570198 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 4.anim
+  artifactKey: Guid(d37d271a9b503d044a0c7029b3f9266e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 4.anim using Guid(d37d271a9b503d044a0c7029b3f9266e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915c83858fd09facbdb5685cd1401b9f') in 0.029877 seconds
+  Import took 0.034251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.721551 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 1.anim
+  artifactKey: Guid(fae9d9064cde7ab4fbbdb414e8b788dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 1.anim using Guid(fae9d9064cde7ab4fbbdb414e8b788dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4968e76498a1db7c5e1b4f2e69830500') in 0.021196 seconds
+  Import took 0.126814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.105277 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 2.anim
+  artifactKey: Guid(2718dc9d7b0337e48a10545d778d7662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 2.anim using Guid(2718dc9d7b0337e48a10545d778d7662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2ffaa1e9232f1a720105d2a8d5265c') in 0.022354 seconds
+  Import took 0.025529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024409 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 2.anim
+  artifactKey: Guid(2718dc9d7b0337e48a10545d778d7662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 2.anim using Guid(2718dc9d7b0337e48a10545d778d7662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2ffaa1e9232f1a720105d2a8d5265c') in 0.007462 seconds
+  Import took 0.010362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.867201 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 3.anim
+  artifactKey: Guid(562be38b2b7a4404c98a72eb524e5dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 3.anim using Guid(562be38b2b7a4404c98a72eb524e5dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '139859b40b29a191a884786232ca8a59') in 0.010874 seconds
+  Import took 0.013591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.477703 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa64ffc9929d1e7305fe54b18505af3c') in 0.008126 seconds
+  Import took 0.114121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.815529 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423d317a97c7a80cefbb9bb817007190') in 0.008637 seconds
+  Import took 0.021031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.200155 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 1.anim
+  artifactKey: Guid(fae9d9064cde7ab4fbbdb414e8b788dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 1.anim using Guid(fae9d9064cde7ab4fbbdb414e8b788dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980ba72ce51129adfd8985f5011e7e5c') in 0.007465 seconds
+  Import took 0.010393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.624523 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 4.anim
+  artifactKey: Guid(d37d271a9b503d044a0c7029b3f9266e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com 4.anim using Guid(d37d271a9b503d044a0c7029b3f9266e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351fcbee484d5365f00ed7e127890cc6') in 0.010711 seconds
+  Import took 0.113706 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2147.
+Total: 3.132700 ms (FindLiveObjects: 0.461300 ms CreateObjectMapping: 0.148000 ms MarkObjects: 2.334700 ms  DeleteObjects: 0.186900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.018735 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac49c1cb0753cff123b2c3a4e6300a3') in 0.022227 seconds
+  Import took 0.156537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.823137 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecddb5542315bf03babc2fac6a7630ff') in 0.010817 seconds
+  Import took 0.025652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021385 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecddb5542315bf03babc2fac6a7630ff') in 0.006717 seconds
+  Import took 0.009952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.158108 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965a5405125df323538a399f5a955358') in 0.008066 seconds
+  Import took 0.011298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.702287 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim
+  artifactKey: Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim using Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b21384cda64332d599929e767e26230') in 0.014428 seconds
+  Import took 0.017499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.642990 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec055e24d780f5964aa5bb4917fdba2') in 0.009177 seconds
+  Import took 0.020813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.759337 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim
+  artifactKey: Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim using Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5f07375ee6ce08bd6edd2a27b67f5d') in 0.012517 seconds
+  Import took 0.015411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.024724 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5354a52642f2cfd894ebf5128cb230bd') in 0.007745 seconds
+  Import took 0.010615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.409038 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim
+  artifactKey: Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim using Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514792dbc4cee874bc2fced5df4a4397') in 0.011341 seconds
+  Import took 0.014631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.618843 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cfbba44a36e9b6f0de86f86c15f67aa') in 0.006978 seconds
+  Import took 0.009852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.139158 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9135ef23b89910d627067d988301b9e2') in 0.011116 seconds
+  Import took 0.014608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.751100 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim
+  artifactKey: Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim using Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b756e7434766607e863b10549d9d97fa') in 0.007700 seconds
+  Import took 0.010613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.701902 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1886d10cffa11f8960cb16e4457ad5') in 0.007954 seconds
+  Import took 0.016682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034781 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1886d10cffa11f8960cb16e4457ad5') in 0.007936 seconds
+  Import took 0.012544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.590290 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim
+  artifactKey: Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim using Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b158a49d241ad8c4358231bb666586f7') in 0.006924 seconds
+  Import took 0.021544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016123 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim
+  artifactKey: Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim using Guid(4246ed71ddfae404a8e03455f08146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b158a49d241ad8c4358231bb666586f7') in 0.007119 seconds
+  Import took 0.009937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.114101 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim
+  artifactKey: Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim using Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc487be504d1bf5c22e2f0eb9671196') in 0.007250 seconds
+  Import took 0.034727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004767 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim
+  artifactKey: Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim using Guid(d63af882d11b4f64fb5d2da517929e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc487be504d1bf5c22e2f0eb9671196') in 0.008585 seconds
+  Import took 0.013285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.527717 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c86aa745e512d769de2854aa9d759b') in 0.007502 seconds
+  Import took 0.011377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.125080 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(1e5f0668899ed2d4384b5ae799bd63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9919aa8d34a2d32fb5a1e325c9fe696a') in 0.010066 seconds
+  Import took 0.020585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.443749 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim
+  artifactKey: Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim using Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7ad342223e486178643afaf136fb71') in 0.007215 seconds
+  Import took 0.010485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015123 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim
+  artifactKey: Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunF.anim using Guid(a88aa0bfeabf0914680e794e7a4a1ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7ad342223e486178643afaf136fb71') in 0.007419 seconds
+  Import took 0.011102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.978721 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(f41cb97c261541e439d777c2c1cb2736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889daab738d0b81aa13ec3f9062d4fb1') in 0.007057 seconds
+  Import took 0.114424 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.150 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2150.
+Total: 3.472800 ms (FindLiveObjects: 0.503400 ms CreateObjectMapping: 0.156300 ms MarkObjects: 2.519900 ms  DeleteObjects: 0.291100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.721484 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a55b8b0f3c37d36b00c063b33db64a') in 0.017853 seconds
+  Import took 0.020777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.602621 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a065d313618ae2a531bef5dd1b1818') in 0.007452 seconds
+  Import took 0.011322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.044718 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403988d31f4cf44d3bee5f212d7bd9f7') in 0.011354 seconds
+  Import took 0.027481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.081494 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim
+  artifactKey: Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim using Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8c6d61269c5cae71427b24aef670bd') in 0.009951 seconds
+  Import took 0.013478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.904480 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30cc7bf6cc7a242937129d3ee4de9ee') in 0.006891 seconds
+  Import took 0.022377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.093053 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim
+  artifactKey: Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim using Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01852224aad4bf59ed9f895081789f3') in 0.006832 seconds
+  Import took 0.108598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.701965 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim
+  artifactKey: Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/mixamo.com.anim using Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3766d42cc116ebc7cb33fcab05a1c7b1') in 0.007279 seconds
+  Import took 0.018066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.089857 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c217e8f325947be3b95d39d34b375e22') in 0.007305 seconds
+  Import took 0.010225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.445004 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79766762fe2e6ccb33feaff1806bf850') in 0.009730 seconds
+  Import took 0.014027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016147 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim
+  artifactKey: Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFL.anim using Guid(771ddd72ac8095643a45313fc2ec2371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79766762fe2e6ccb33feaff1806bf850') in 0.006503 seconds
+  Import took 0.009423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.320796 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim
+  artifactKey: Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim using Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a84a794829eff3e77e4850baf0c017') in 0.007094 seconds
+  Import took 0.010830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.340989 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim
+  artifactKey: Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim using Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b95a74aecf53b4091e2bf0bda2ceaa') in 0.008236 seconds
+  Import took 0.444268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.961289 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7046febb021e49014bababf0a8b6736') in 0.006857 seconds
+  Import took 0.033296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017374 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7046febb021e49014bababf0a8b6736') in 0.007617 seconds
+  Import took 0.010654 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.164 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2153.
+Total: 2.291200 ms (FindLiveObjects: 0.410000 ms CreateObjectMapping: 0.099200 ms MarkObjects: 1.570000 ms  DeleteObjects: 0.210500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.590631 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317a6a2d13b2d1267ba694c53697c5df') in 0.028887 seconds
+  Import took 0.124474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.294976 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim
+  artifactKey: Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunR.anim using Guid(19e48159f4566224ca57cab6afa529b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317a6a2d13b2d1267ba694c53697c5df') in 0.006444 seconds
+  Import took 0.009166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.499047 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim
+  artifactKey: Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunL.anim using Guid(f3bb231c6ab67d847b2ead0cd3b0bfc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a077785de9a587af1a23c670a31901') in 0.008271 seconds
+  Import took 0.011819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.719216 seconds.
+  path: Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim
+  artifactKey: Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Game/Models/Animations/Rifle 8-Way Locomotion Pack/RunFR.anim using Guid(9b283433ebf3bd546af04caf285702b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16aa57fdab0f7bb3a4be6c1f8c071120') in 0.007904 seconds
+  Import took 0.107691 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2156.
+Total: 2.070400 ms (FindLiveObjects: 0.213100 ms CreateObjectMapping: 0.064600 ms MarkObjects: 1.587000 ms  DeleteObjects: 0.203600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2159.
+Total: 3.875100 ms (FindLiveObjects: 0.459100 ms CreateObjectMapping: 0.161100 ms MarkObjects: 2.987200 ms  DeleteObjects: 0.264300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2162.
+Total: 2.057300 ms (FindLiveObjects: 0.208100 ms CreateObjectMapping: 0.061700 ms MarkObjects: 1.579400 ms  DeleteObjects: 0.206800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2165.
+Total: 2.806700 ms (FindLiveObjects: 0.348200 ms CreateObjectMapping: 0.078700 ms MarkObjects: 2.134700 ms  DeleteObjects: 0.242800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000684 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2168.
+Total: 6.195800 ms (FindLiveObjects: 0.992500 ms CreateObjectMapping: 0.176200 ms MarkObjects: 4.545100 ms  DeleteObjects: 0.475500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001049 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2171.
+Total: 2.547200 ms (FindLiveObjects: 0.272400 ms CreateObjectMapping: 0.085300 ms MarkObjects: 1.983700 ms  DeleteObjects: 0.204700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2174.
+Total: 2.259700 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.770300 ms  DeleteObjects: 0.212500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2177.
+Total: 2.610500 ms (FindLiveObjects: 0.304500 ms CreateObjectMapping: 0.101100 ms MarkObjects: 1.939600 ms  DeleteObjects: 0.262600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1574 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.3 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2180.
+Total: 2.221500 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.087000 ms MarkObjects: 1.614600 ms  DeleteObjects: 0.199700 ms)
+
