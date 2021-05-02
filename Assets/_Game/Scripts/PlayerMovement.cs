@@ -10,6 +10,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public bool lockCursor = true;
+    [SerializeField] private float zoomDuration;
 
     private AnimatorController3rdPerson animatorController; // The Animator controller
     private CinemachineRecomposer composer;
@@ -71,7 +72,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 StopCoroutine(cameraZoom);
             }
-            cameraZoom = StartCoroutine(ComposerUpdate(0.5f, 7, -5, 0.63f));
+            cameraZoom = StartCoroutine(ComposerUpdate(zoomDuration, 7, -5, 0.63f));
         }
         else if ((Input.GetMouseButtonUp(1)))
         {
@@ -79,7 +80,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 StopCoroutine(cameraZoom);
             }
-            cameraZoom = StartCoroutine(ComposerUpdate(0.5f, 0, 0, 1f));
+            cameraZoom = StartCoroutine(ComposerUpdate(zoomDuration, 0, 0, 1f));
         }
 
         // Move the character.
