@@ -6,11 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c3d43c5f-7723-4775-b586-ee05655999c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GunRun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GunRun/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Laser.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Prototyping/Materials/Laser.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Prefabs/Player.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/HitReactionBullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/HitReactionBullet.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +37,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/CrosshairController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/PlayerLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Scripts/HitReactionBullet.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,8 +50,9 @@
       <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/Shared Demo Assets/Scripts/Camera Controllers/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
       <option value="$PROJECT_DIR$/Assets/Plugins/RootMotion/FinalIK/_DEMOS/FBBIK/Scripts/AnimatorController3rdPerson.cs" />
-      <option value="$PROJECT_DIR$/Assets/_Game/Scripts/HitReactionBullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Game/Scripts/CrosshairController.cs" />
       <option value="$PROJECT_DIR$/Assets/_Game/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Game/Scripts/HitReactionBullet.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rdJHtTIZpeXegzmb59inrBtlwZ" />
@@ -97,6 +106,7 @@
       <workItem from="1619794880741" duration="173000" />
       <workItem from="1619867406938" duration="3402000" />
       <workItem from="1619957861762" duration="2190000" />
+      <workItem from="1620478266882" duration="2692000" />
     </task>
     <servers />
   </component>

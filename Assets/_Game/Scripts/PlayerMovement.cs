@@ -17,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     private CinemachineBrain cinemachineBrain;
     private Coroutine cameraZoom;
     private GameObject camera;
+    public Transform gunTip;
 
     private Vector3 lookDirection;
     private Vector3 aimTarget;

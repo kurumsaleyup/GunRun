@@ -3168,6 +3168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lockCursor: 1
+  zoomDuration: 0.2
 --- !u!136 &1207225156
 CapsuleCollider:
   m_ObjectHideFlags: 0
