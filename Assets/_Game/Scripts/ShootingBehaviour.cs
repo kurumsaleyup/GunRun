@@ -18,12 +18,19 @@ public class ShootingBehaviour : MonoBehaviour
 
     void Update()
     {
+        /*RaycastHit hitInfo;*/
+        Ray ray = new Ray(particlePosition.transform.position, particlePosition.transform.forward);
+
+        /*
+        if (Physics.Raycast(ray, out hitInfo, 100f))
+        {
+        }*/
+
         if (Input.GetMouseButtonDown(0))
         {
-            var forcePos = particlePosition.transform.forward;
             var spawnBullet = Instantiate(bullet, particlePosition.transform.position,
                 particlePosition.transform.localRotation);
-            spawnBullet.GetComponent<Rigidbody>().AddRelativeForce(forcePos * 3000f);
+            spawnBullet.GetComponent<Rigidbody>().AddRelativeForce(ray.direction * 3000f);
             Destroy(spawnBullet, 2f);
         }
     }

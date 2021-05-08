@@ -73,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 StopCoroutine(cameraZoom);
             }
-            cameraZoom = StartCoroutine(ComposerUpdate(zoomDuration, 7, -5, 0.63f));
+            cameraZoom = StartCoroutine(ComposerUpdate(zoomDuration, 3, -2.5f, 0.63f));
         }
         else if ((Input.GetMouseButtonUp(1)))
         {
