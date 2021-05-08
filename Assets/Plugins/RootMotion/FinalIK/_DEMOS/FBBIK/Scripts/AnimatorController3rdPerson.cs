@@ -65,6 +65,7 @@ namespace RootMotion.Demos
             // Set Animator parameters
             animator.SetFloat("X", moveBlend.x);
             animator.SetFloat("Z", moveBlend.z);
+            
             animator.SetBool("IsMoving", isMoving);
             if (Input.GetKey(KeyCode.LeftShift))
             {

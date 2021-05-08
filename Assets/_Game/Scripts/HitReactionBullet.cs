@@ -22,7 +22,7 @@ public class HitReactionBullet : MonoBehaviour
 
     void Update() {
         // On left mouse button...
-        if (Input.GetMouseButtonDown(0) && Input.GetMouseButton(1))
+        /*if (Input.GetMouseButtonDown(0) && Input.GetMouseButton(1))
         {
             
             var pos = camera.ScreenToWorldPoint(_crosshair.transform.position);
@@ -43,6 +43,15 @@ public class HitReactionBullet : MonoBehaviour
                 // Use the HitReaction
                 hitReaction.Hit(hit.collider, gunTip.forward * hitForce, hit.point);
             }
-        }
+        }*/
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        Debug.Log("collision");
+        var hitCollider = other.contacts[0].thisCollider;
+        var point = other.GetContact(0).point;
+        hitReaction.Hit(hitCollider, other.rigidbody.velocity * hitForce, point);
+    
     }
 }
