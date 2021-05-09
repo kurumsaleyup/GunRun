@@ -9502,6 +9502,7 @@ GameObject:
   - component: {fileID: 8280622}
   - component: {fileID: 3362456546128715935}
   - component: {fileID: 9032208920200722828}
+  - component: {fileID: 3898743728085275411}
   m_Layer: 0
   m_Name: BulletSmallFireRigid
   m_TagString: Untagged
@@ -14353,3 +14354,16 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.3
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3898743728085275411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112676b595c17814997406e9895e16b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appliedHitForce: 1.5

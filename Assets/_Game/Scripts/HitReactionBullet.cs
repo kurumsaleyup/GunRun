@@ -43,7 +43,20 @@ public class HitReactionBullet : MonoBehaviour
                 // Use the HitReaction
                 hitReaction.Hit(hit.collider, gunTip.forward * hitForce, hit.point);
             }
-        }*/
+        }
+        
+        //test
+        /*if (Input.GetMouseButton(0))
+        {
+           var  pos = camera.ScreenPointToRay(Input.mousePosition);
+           RaycastHit hit;
+           if (Physics.Raycast(pos, out hit, 100f))
+           {
+               hitReaction.Hit(hit.collider, camera.transform.forward * hitForce, hit.point);
+           }
+        }#1#*/
+        
+        
     }
 
     private void OnCollisionEnter(Collision other)
