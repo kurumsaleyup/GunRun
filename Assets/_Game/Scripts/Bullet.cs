@@ -17,12 +17,13 @@ public class Bullet : MonoBehaviour
     private void OnCollisionEnter(Collision other)
     {
         var hitForce = other.gameObject.GetComponentInParent<HitReaction>();
+        var zombieController = other.gameObject.GetComponentInParent<ZombieController>();
         if (hitForce !=null)
         {
             var hitCollider = other.collider;
             var point = other.GetContact(0).point;
             hitForce.Hit(hitCollider, rb.velocity.normalized * appliedHitForce, point);
-            Debug.Log("force applied");
+            zombieController.hitCount += 1;
         }
     
     }

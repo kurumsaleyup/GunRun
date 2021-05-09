@@ -4161,6 +4161,7 @@ GameObject:
   - component: {fileID: 6958018572192085455}
   - component: {fileID: 515209408}
   - component: {fileID: 515209409}
+  - component: {fileID: 272617255}
   m_Layer: 0
   m_Name: warzombie_f_pedroso Root
   m_TagString: Untagged
@@ -4195,11 +4196,11 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.26
-  m_Speed: 3.5
-  m_Acceleration: 8
+  m_Speed: 0.5
+  m_Acceleration: 0.5
   avoidancePriority: 50
-  m_AngularSpeed: 120
-  m_StoppingDistance: 0
+  m_AngularSpeed: 360
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -4260,6 +4261,24 @@ MonoBehaviour:
   - effectorType: 6
     horizontalWeight: 0.5
     verticalWeight: 0
+--- !u!114 &272617255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6958018572192085424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ef6db0e6ee43746a35d18ea882f777, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 1
+  _navMeshAgent: {fileID: 515209408}
+  _animator: {fileID: 6958018573295284790}
+  wanderRadius: 10
+  puppetMaster: {fileID: 903741062636923417}
+  hitCount: 0
 --- !u!1 &6958018572290304851
 GameObject:
   m_ObjectHideFlags: 0
@@ -5332,10 +5351,10 @@ Animator:
   m_GameObject: {fileID: 6958018573295284795}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: dbc61c8ccf5910f4d8696e22588eed62, type: 3}
-  m_Controller: {fileID: 9100000, guid: a3b2662b56ec9481e9e0327a30d7c02d, type: 2}
+  m_Controller: {fileID: 9100000, guid: a9b9759faca9c0546a07a7f8d50f3bee, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
