@@ -13,7 +13,7 @@ public class ShootingBehaviour : MonoBehaviour
     private void Start()
     {
         camera = Camera.main;
-        _crosshair = FindObjectOfType<CrosshairController>().GetComponent<RectTransform>();
+        //_crosshair = FindObjectOfType<CrosshairController>().GetComponent<RectTransform>();
     }
 
     void Update()

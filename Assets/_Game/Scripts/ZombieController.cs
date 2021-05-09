@@ -21,7 +21,8 @@ public class ZombieController : MonoBehaviour
     [SerializeField] private Animator _animator;
     [SerializeField] private float wanderRadius = 10f;
     [SerializeField] private PuppetMaster puppetMaster;
-    public int hitCount = 0;
+    [HideInInspector] public int hitCount = 0;
+    [SerializeField] private int hitNumberToKill = 20;
     private Vector3? wanderDestination;
 
     
@@ -34,7 +35,7 @@ public class ZombieController : MonoBehaviour
             return;
         }
         
-        if (hitCount > 10)
+        if (hitCount > hitNumberToKill)
         {
             puppetMaster.state = PuppetMaster.State.Dead;
             _navMeshAgent.enabled = false;
